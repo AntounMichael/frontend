@@ -4500,6 +4500,13 @@ ember-lifeline@^2.0.0:
   dependencies:
     ember-cli-babel "^6.8.2"
 
+ember-lifeline@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/ember-lifeline/-/ember-lifeline-3.0.4.tgz#c202e133328bec87cdbdce12c4805992cc397182"
+  dependencies:
+    ember-cli-babel "^6.8.2"
+    ember-weakmap "^3.1.1"
+
 ember-light-table@^1.11.0:
   version "1.12.2"
   resolved "https://registry.yarnpkg.com/ember-light-table/-/ember-light-table-1.12.2.tgz#6fe7bb87d7a562f2ff8d90bc6b86f7fb7dd32c6d"
@@ -4944,7 +4951,7 @@ ember-validators@1.0.4:
     ember-cli-babel "^6.9.2"
     ember-require-module "^0.1.2"
 
-ember-weakmap@^3.0.0:
+ember-weakmap@^3.0.0, ember-weakmap@^3.1.1:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/ember-weakmap/-/ember-weakmap-3.2.0.tgz#663871d7a8bb085c5b1cedcb3fb183857990343f"
   dependencies:
